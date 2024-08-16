@@ -1,3 +1,5 @@
+# Download from https://github.com/hyouuu/godot-vim for updates
+
 @tool
 extends EditorPlugin
 
