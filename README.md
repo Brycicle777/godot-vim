@@ -1,9 +1,7 @@
-VIM bindings for Godot 4
+Vim bindings for Godot 4 at https://github.com/hyouuu/godot-vim
 
-recently improved thanks to wenqiangwang
-If you would like ctrl+F to be move-forward by page then uncomment the following line
+Forked from https://github.com/joshnajera/godot-vim - many thanks to the original author and contributors, but it hasn't been maintained for over 8 months so decided to use this fork to get all the PRs merged.
 
-#"Ctrl+F": 1, ## Uncomment if you want Ctrl+F for move forward by page
 
 ### Supported Mode
 
